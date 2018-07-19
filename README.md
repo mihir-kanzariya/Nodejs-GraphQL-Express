@@ -2,7 +2,7 @@
 This is a guide for setting up your project with Node-GraphQL-Express-MongoDB.
 
 ## Getting Started
-You can download this repo or clone using below command. (folder-name will be project folder in which you want to start your project).
+You can download this repo or clone using below command. (`folder-name` will be project folder in which you want to start your project).
 ```
 git clone https://github.com/mihir-kanzariya/Nodejs-GraphQL-Express.git <folder-name>
 ```
